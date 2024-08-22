@@ -16,7 +16,7 @@
 ####
 
 <p align="left">I'm a beginner Frontend developer. <br> My journey into it began with studying on the Fullstack course at GoIT.</p>
-<a align="left">https://goit.global/ua/</a>
+<a align="left" href="https://goit.global/ua/">GoIT – IT course platform</a>
 
 ####
 
